@@ -1,0 +1,9 @@
+C:\Users\hussa\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+C:\Users\hussa\Documents\Unreal Projects\MyProject\Source\MyProject\BatteryMan_GameMode.h
+D:\Unreal Engine 5\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+D:\Unreal Engine 5\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engine 5\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engine 5\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engine 5\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal Engine 5\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+C:\Users\hussa\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Inc\MyProject\BatteryMan_GameMode.generated.h

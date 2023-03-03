@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\hussa\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"C:\\Users\\hussa\\Documents\\Unreal Projects\\MyProject\\Source\\MyProject.Target.cs",
+		"C:\\Users\\hussa\\Documents\\Unreal Projects\\MyProject\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
